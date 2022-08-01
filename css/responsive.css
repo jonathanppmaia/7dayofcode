@@ -49,11 +49,11 @@
     line-height: 24px;
   }
 
-  .logo01 {
+  .header__logo .logo01 {
     display: flex;
   }
 
-  .logo {
+  .header__logo .logo {
     display: none;
   }
 
@@ -144,7 +144,7 @@
 
   .comments {
     max-width: 94%;
-    height: 30vh;
+    height: 40vh;
     row-gap: 12px;
     margin: 4% auto;
   }
