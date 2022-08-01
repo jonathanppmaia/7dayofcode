@@ -16,7 +16,7 @@ O desafio 7 Dayss de HTML e CSS é uma prática ofericida pela Alura em diversas
 
 #### Resultado
 
-![Resultado](./images/jonathanppmaia.github.io_7daysofcode_%20(1).png "image Title")
+![Resultado](./images/jonathanppmaia.github.io_7daysofcode_.png "image Title")
 
  
 
