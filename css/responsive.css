@@ -8,8 +8,8 @@
 
   .comments {
     max-width: 90%;
-    height: 50vh;
-    row-gap: 12px;
+    height: 300px;
+    row-gap: 16px;
     margin: 4% auto;
   }
 
